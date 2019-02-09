@@ -9,3 +9,5 @@ This is test task for hackaton
 
 
 Апдейт базы ``bin/console doctrine:schema:update --force``
+
+PS: сообщение при 204 статусе выводиться не будет, так как 204 код - No Content
